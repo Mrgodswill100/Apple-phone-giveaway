@@ -7,22 +7,22 @@ Welcome to our giveaway! Complete the tasks below to enter for a chance to win e
 ### Task 1: Star the Repository
 ⭐️ Star this repository to support our project!
 
-- [ ] Star this repository [here](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME).
+- [ ] Star this repository [here](https://github.com/mrgodswill100/YOUR_REPOSITORY_NAME).
 
 ### Task 2: Fork the Repository
 🍴 Fork this repository to your GitHub account!
 
-- [ ] Fork this repository [here](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/fork).
+- [ ] Fork this repository [here](https://github.com/mrgodswill1/YOUR_REPOSITORY_NAME/fork).
 
 ### Task 3: Create an Issue
 🐛 Report a bug or suggest a feature!
 
-- [ ] Create an issue in the [Issues section](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/issues).
+- [ ] Create an issue in the [Issues section](https://github.com/mrgodswill100/YOUR_REPOSITORY_NAME/issues).
 
 ### Task 4: Follow Us on Twitter
 🐦 Follow us on Twitter for updates!
 
-- [ ] Follow us [@YOUR_TWITTER_HANDLE](https://twitter.com/YOUR_TWITTER_HANDLE).
+- [ ] Follow us [@YOUR_TWITTER_HANDLE](https://twitter.com/@drealchima).
 
 ### Task 5: Share on Social Media
 📣 Share our project on your social media!
